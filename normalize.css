@@ -378,3 +378,7 @@ text-decoration: underline
   filter: grayscale(0%); 
 }
 
+p {
+  color: #02ba36;
+  font-size: 180%;
+}
